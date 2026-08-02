@@ -548,8 +548,8 @@ AI coding and documentation tools were used during development. Product directio
 - **Continuity workspace:** https://cyrilla-mist.github.io/nexus-atlas-datahub-2026/reentry.html?source=fixture&scenario=verity
 
 The public GitHub Pages demonstration uses the fixture scenario. Live DataHub, MCP, and governed mutation require the local Runtime; the public Pages deployment does not connect to a user's localhost bridge and does not claim to execute real DataHub mutations.
-- **Demo video:** pending final runtime recording
-- **Devpost submission:** pending
+- **Demo video:** https://youtu.be/I5CTEVH4BRc
+- **Devpost project:** https://devpost.com/software/nexus-atlas-102pc3
 
 ---
 
